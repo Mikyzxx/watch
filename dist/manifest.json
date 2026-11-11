@@ -1,0 +1,17 @@
+{
+  "name": "PulseStop Wall Street Guard",
+  "short_name": "PulseStop",
+  "description": "Cortafuegos bioconductual de trading sincronizando Teléfono y Smartwatch en tiempo real.",
+  "start_url": "/demo",
+  "display": "standalone",
+  "background_color": "#060911",
+  "theme_color": "#060911",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
